@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "228852903992",
+    "firebase_url": "https://iet-hack-default-rtdb.firebaseio.com",
+    "project_id": "iet-hack",
+    "storage_bucket": "iet-hack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228852903992:android:4277c45a8d4b9f1882f6cd",
+        "android_client_info": {
+          "package_name": "com.example.plant_disease_detector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228852903992-b6mg1da28nvtpdmcvlvaqr9ss0d2qat8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdmg5muvikkWT8IQxcJ1ZAmcANFY0N4cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228852903992-b6mg1da28nvtpdmcvlvaqr9ss0d2qat8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
