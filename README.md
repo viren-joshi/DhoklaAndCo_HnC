@@ -30,9 +30,7 @@ FRONT END: The frontend was built using flutter as we wanted to build an app whi
 BACKEND: We used Firebase for the backend as we have to store the image that is being passed from the front end. Firebase is very easy to use as well as to setup, making it easy for development as well.
 SYSTEM APIs: For the front end and back end to communicate we used FLASK to implement APIs, we then hosted this api using ngrok. The API fetches the image from the database and runs the image in the model in python and the pushes the result to the frontend.
 ML MODEL: As soon as we upload the image to the model, then the model compresses the image to a size of 256 by 256. Then the image is pre-processed using normalization, max-pooling and activation functions to form an array of just the highlightable parts of the leaf which is of size 15 and each index of the array corresponds to the most appropriate probabilities of each disease. There are a total of 58 million deciding parameters that help in building the probabilities of the diseases.
-PROBLEMS FACED :
-The first problem we faced was the accuracy of the model, we then used a much deeper and more complex model to train our data on.
-Hosting and linking the Flask API to a global domain was another issue that we faced, as we had to upload our model, we had to face storage restrictions as we were using free hosting services. We then tackled it by using NGROK and ran the FLASK API locally.
+
 
 FUTURE SCOPE :
 
