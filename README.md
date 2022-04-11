@@ -1,10 +1,10 @@
-# IET_Plant_Disease_Detector
+# MPSTME - IET | Hack N Code Project 
 Plant Disease Detector
-PLANT DISEASE DETECTION - DHOKLA&CO
+PLANT DISEASE DETECTION - DHOKLA & CO.
 
 APK IS UPLOADED IN THE GITHUB REPOSITORY
 
-https://www.youtube.com/watch?v=jt1IOidOUrY / https://github.com/shivam5522/DhoklaAndCo_HnC
+Demonstrative Video : https://www.youtube.com/watch?v=jt1IOidOUrY
 
 Plant Disease Detection.pptx
 
