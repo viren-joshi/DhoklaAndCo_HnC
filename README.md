@@ -2,8 +2,6 @@
 ### PLANT DISEASE DETECTION
 #### DHOKLA & CO.
 
-APK IS UPLOADED IN THE GITHUB REPOSITORY
-
 Demonstrative Video : https://www.youtube.com/watch?v=jt1IOidOUrY
 
 India is a cultivated country and 70% of our population belongs to the agricultural sector. Farmers undergo massive losses due to unavailability of proper knowledge and resources to detect and diagnose plant diseases. Plant diseases affect the growth of their respective species, therefore their early identification is very important. Identification of the plant diseases is the key to preventing the losses in the yield and quantity of the agricultural product. Health monitoring and disease detection on plant is very critical for sustainable agriculture. It is very difficult to monitor the plant diseases manually. It requires tremendous amount of work, expertise in the plant diseases, and also require the excessive processing time.
@@ -39,3 +37,7 @@ As soon as we upload the image to the model, then the model compresses the image
 Increase the scope of diseases that can be detected.
 Connect farmers to professionals.
 Recommend fertilizers and manure from various online stores for the detected disease.
+
+
+---
+This a project created by the Team Dhokla & Co. for 24HR hackathon created by IET - MPSTME.
